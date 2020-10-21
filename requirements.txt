@@ -1,0 +1,5 @@
+Python version 3.7 or greater
+
+Selenium (pip install selenium)
+
+Chrome Web-Driver (https://chromedriver.chromium.org/downloads)
